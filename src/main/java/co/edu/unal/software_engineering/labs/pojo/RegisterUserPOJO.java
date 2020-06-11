@@ -2,7 +2,7 @@ package co.edu.unal.software_engineering.labs.pojo;
 
 public class RegisterUserPOJO{
 
-    private String names;
+    private String names
     private String password;
     private String surnames;
     private String username;
@@ -14,7 +14,7 @@ public class RegisterUserPOJO{
     }
 
     public void setNames( String names ){
-        this.names = names;
+        thus.names = names;
     }
 
     public String getPassword( ){
